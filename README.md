@@ -44,7 +44,7 @@ This quiz web app is built using React JS. It can allow the user to select the c
 
 ## UI of the Website
 
-![plot](.sample/Screenshot 2024-04-26 173703.png)
+![Screenshot 2024-04-26 173703](https://github.com/chaitanya3105/Quizzing-App/assets/92199379/175160fe-7409-4b8b-9710-394952befc7a)
 ### Home Page 
 
 ![image](https://user-images.githubusercontent.com/87645745/206397113-b70dc86a-c78c-4f6c-bf61-8183c4c07262.png)  
