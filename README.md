@@ -50,7 +50,7 @@ This quiz web app is built using React JS. It can allow the user to select the c
 ![Screenshot 2024-04-26 173816](https://github.com/chaitanya3105/Quizzing-App/assets/92199379/3f7f5ece-c1dd-4c15-9cbc-abd3e3d89162) 
 ### Question Page 
 
-![image](https://user-images.githubusercontent.com/87645745/206397461-168cfe8f-2cbe-4d5e-a268-3540baf69ca5.png) 
+![Screenshot 2024-04-26 173914](https://github.com/chaitanya3105/Quizzing-App/assets/92199379/b3ea79f4-8603-4cbc-9a7e-4e2ca7086ee2)
 ### Score Board Page 
 
 <br/>
