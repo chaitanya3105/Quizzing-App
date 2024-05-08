@@ -8,7 +8,7 @@
 </div>
 
 <h3 align="center">
-          Live Project : https://ask-quiz.netlify.app/
+          Live Project : https://quizzinginc.netlify.app
 </h3>
 <br />
 
@@ -22,7 +22,7 @@
 
  <br />
 
-   <p align="center">✨ Welcome to Quiz Web App ✨ <br /></p>
+   <p align="center"> Welcome to Quiz Web App  <br /></p>
 
 
 ## Table of Contents
